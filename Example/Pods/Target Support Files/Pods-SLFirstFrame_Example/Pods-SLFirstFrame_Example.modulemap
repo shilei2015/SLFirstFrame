@@ -1,0 +1,6 @@
+framework module Pods_SLFirstFrame_Example {
+  umbrella header "Pods-SLFirstFrame_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

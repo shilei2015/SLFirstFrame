@@ -1,0 +1,6 @@
+framework module SLFirstFrame {
+  umbrella header "SLFirstFrame-umbrella.h"
+
+  export *
+  module * { export * }
+}

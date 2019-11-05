@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - SLFirstFrame (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - SLFirstFrame (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  SLFirstFrame:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  SLFirstFrame: 81c0d752ef91ee9285627b03c6b7e3e824a4dfcf
+
+PODFILE CHECKSUM: 4307349a469fb03377769d43622b1c0fec729784
+
+COCOAPODS: 1.7.5
